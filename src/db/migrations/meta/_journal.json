@@ -8,6 +8,13 @@
       "when": 1752098924507,
       "tag": "0000_condemned_thor",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752172083422,
+      "tag": "0001_burly_queen_noir",
+      "breakpoints": true
     }
   ]
 }
